@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Lukas
-[![Linkedin](https://img.shields.io/badge/LukasLe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/l0ng-le/)](https://www.linkedin.com/in/l0ng-le/)
+[![Linkedin](https://img.shields.io/badge/Lukas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/l0ng-le/)](https://www.linkedin.com/in/l0ng-le/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${longlhh90})
 ### A Python About Me  
 
@@ -19,14 +19,13 @@ if __name__ == "__main__":
     name = "Lukas Le",
     job = "Software Developer",
     languages = {
-      # "human": ["English", "Vietnamese"],
-      "computer": ["Python", "Javascript", "Java"]
+      # "human": ["English", "Tiếng Việt", "ein bisschen Deutsch"],
+      "computer": ["Python", "Javascript", "Java", "any others"]
     },
-    frameworks = ["django", "flask", "angular", "javascript", "expressjs", "nestjs"],
-    tools = ["vscode", "pycharm", "docker", "jira", "trello", "google tools"],
+    frameworks = ["django", "flask", "angular", "nexjs", "expressjs", "nestjs"],
+    tools = ["nvim", "docker", "AWS", "GCP"],
     os = ["macOS", "linux", "windows"],
     hobbies = ["coding", "data analyzing", "working out", "travelling"]
   )
-  pprint.pprint(vars(me))
 ```
 
