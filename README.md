@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Lukas
 [![Linkedin](https://img.shields.io/badge/Lukas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/l0ng-le/)](https://www.linkedin.com/in/l0ng-le/)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${longlhh90})
 ### A Python About Me  
 
 ```Python
