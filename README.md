@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Lukas
 [![Linkedin](https://img.shields.io/badge/Lukas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/l0ng-le/)](https://www.linkedin.com/in/l0ng-le/)
-[![Personal Site](https://img.shields.io/badge/Website-green?style=flat-square&logoColor=white&link=https://lukasle.vercel.app)](https://lukasle.vercel.app)
+[![Personal Site](https://img.shields.io/badge/Personal%20Site-green?style=flat-square&logoColor=white&link=https://lukasle.vercel.app)](https://lukasle.vercel.app)
 ### A Python About Me  
 
 ```Python
